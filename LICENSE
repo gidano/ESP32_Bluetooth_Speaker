@@ -38,7 +38,7 @@ Ennek tartalmaznia kell:
 Példa:
 
 > Based on myRadio-SPIFFS-Manager by gidano
-> https://github.com/gidano/myRadio-SPIFFS-Manager
+> https://github.com/gidano/ESP32_Bluetooth_Speaker
 
 A megjelölésnek:
 
@@ -109,7 +109,7 @@ This includes:
 Example attribution:
 
 > Based on myRadio-SPIFFS-Manager by gidano
-> https://github.com/gidano/myRadio-SPIFFS-Manager
+> https://github.com/gidano/ESP32_Bluetooth_Speaker
 
 The attribution must be:
 
