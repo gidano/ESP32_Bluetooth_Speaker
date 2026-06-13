@@ -4,7 +4,7 @@ Egy egyszerű, önálló **Bluetooth A2DP hangszóró / Bluetooth audio receiver
 A telefon vagy laptop Bluetooth hangkimenetként csatlakozik az ESP32-höz, az ESP32 pedig I2S-en továbbítja a hangot egy külső DAC vagy I2S erősítő modul felé.
 
 <p align="center">
-  <img src="ESP32_BT_Speaker/ESP32_BT_Speaker.jpg)" alt="ESP32_BT_Speaker" width="400">
+  <img src="ESP32_BT_Speaker/ESP32_BT_Speaker.jpg" alt="ESP32_BT_Speaker" width="400">
 </p>
 
 A projekt célja egy kis, kijelzős BT hangszóró építése maradék ESP32 hardverből, 1.8" ST7735 TFT kijelzővel és I2S hangmodullal.
